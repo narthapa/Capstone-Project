@@ -1,0 +1,30 @@
+h1{
+    color: rgb(33, 5, 112);
+    text-align: center;
+    background-color: rgb(235, 113, 13);
+    font-family:'Courier New', Courier, monospace;
+}
+h5{
+    color: rgb(2, 7, 10);
+    text-align: end;
+}
+.site-name{
+    padding: 10px 20px;
+    color: #e62510;
+    margin-top: auto;
+}
+.site-menu{
+    text-align:left;
+    margin-top: 0%;
+    font-size: large;
+   
+}
+a{
+    text-decoration: none;
+    color: #030303;
+    margin: 0px 10px;
+    font-size: small;
+    font-weight: bold;
+  
+    
+}
